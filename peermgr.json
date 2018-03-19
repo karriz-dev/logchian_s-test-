@@ -1,0 +1,11 @@
+{
+    "PEER_MGR": {
+        "ID": "gw_trustpeer_donghyunPC",
+        "IP": "203.239.200.190",
+        "PORT": 9999
+    },
+    "PEER_CONNECTOR_PORT": 9998,
+    "PEER_LIST": [
+        "gw6","gw8"
+    ]
+}
